@@ -1,5 +1,5 @@
-# Terronia Simulator v1.2.1
+# ShittyFPS v1.2.1
 
-![Logo Terronia Sim](https://i.imgur.com/UW4q5tT.png)
+![Logo ShittyFPS](https://i.imgur.com/o7rwfY8.png)
 
-### Play now: https://sakjur-soviet.github.io/TerroniaSim/
+### Play now: https://sakjur-soviet.github.io/ShittyFPS/
