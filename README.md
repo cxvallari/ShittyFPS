@@ -2,4 +2,4 @@
 
 ![Logo ShittyFPS](https://i.imgur.com/o7rwfY8.png)
 
-### Play now: https://sakjur-soviet.github.io/ShittyFPS/
+### Play now [LOW QUALITY]: https://sakjur-soviet.github.io/ShittyFPS/
