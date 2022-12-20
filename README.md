@@ -1,3 +1,3 @@
 # TerroniaSim
 
-![Logo Terronia Sim](https://imgur.com/UW4q5tT)
+![Logo Terronia Sim](https://i.imgur.com/UW4q5tT.png)
