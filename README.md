@@ -1,4 +1,4 @@
-# Terronia Simulator v0.1.1
+# Terronia Simulator v0.2.1
 
 ![Logo Terronia Sim](https://i.imgur.com/UW4q5tT.png)
 
